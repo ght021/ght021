@@ -1,0 +1,23 @@
+body {
+    background-color: transparent;
+    color: purple;
+}
+
+h1 {
+    display: inline-block;
+}
+
+h2 {
+    color: #B9005B;
+    display: inline-block;
+}
+
+h3 {
+    color: #B9005B;
+}
+.foto-principal {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+}
